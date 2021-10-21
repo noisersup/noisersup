@@ -1,4 +1,4 @@
-### Hi. I'm noisersup!
+### Hi. I'm noisersup! :wave:
 ![does not work:(((][gif]
 ![does not work:(((][gif]
 ![does not work:(((][gif]
