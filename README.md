@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 <h3 align="center">An ambitious and passionate software developer, fascinated in backend technologies.</h3>
 
-- 🔭 I’m currently working on [ledyt - the CLI Youtube client](https://github.com/noisersup/ledyt)
+- 🔭 I’m currently working on [new AwesomeWM dotfiles](https://github.com/noisersup/dotfiles)
 
 - 👨‍💻 Checkout my website [https://kwiatek.xyz](https://kwiatek.xyz)
 
